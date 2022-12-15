@@ -1,0 +1,21 @@
+h2 {
+    color: yellow;
+    letter-spacing: 2px;
+}
+
+h4 {
+    color: khaki;
+    letter-spacing: 2px;
+}
+
+#title-and-description {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
